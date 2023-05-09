@@ -1,22 +1,31 @@
 #include <stdio.h>
 #include <math.h>
-int main (void)
-{
-int raiz, contador, num, tamanho = 0;
-printf("Digite um numero :");
-scanf("%d", &num);
-raiz = sqrt(num);
-contador = raiz;
-    while (contador > 1)
-    {
-        if (num%contador == 0)
-        {tamanho++;}
-        contador--;
+
+int main(void) {
+    int num, i, j, primo;
+    printf("Digite um numero: ");
+    scanf("%d", &num);
+
+    // loop para passar por todos os números ate o valor digitado pelo usuario
+    for (i = 2; i <= num; i++) {
+        primo = 1;
+
+        // loop para verificar se o numero atual e divisivel por algum numero menor que ele
+        for (j = 2; j <= sqrt(i); j++) 
+        {
+            if (i % j == 0) 
+            { 
+                primo = 0;
+                break;
+            }
         }
-     if (tamanho > 0)
-     {printf("Esse numero nao e primo");}
-     else
-     {printf("Esse numero e primo");}   
+
+        
+        if (primo) 
+        {
+            printf("%d ", i);
+        }
+    }
+
     return 0;
-    
 }
