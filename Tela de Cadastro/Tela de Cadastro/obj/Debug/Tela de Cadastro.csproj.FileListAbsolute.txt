@@ -1,0 +1,11 @@
+C:\Users\20231stads005\source\repos\Tela de Cadastro\Tela de Cadastro\bin\Debug\Tela de Cadastro.exe.config
+C:\Users\20231stads005\source\repos\Tela de Cadastro\Tela de Cadastro\bin\Debug\Tela de Cadastro.exe
+C:\Users\20231stads005\source\repos\Tela de Cadastro\Tela de Cadastro\bin\Debug\Tela de Cadastro.pdb
+C:\Users\20231stads005\source\repos\Tela de Cadastro\Tela de Cadastro\obj\Debug\Tela de Cadastro.csproj.AssemblyReference.cache
+C:\Users\20231stads005\source\repos\Tela de Cadastro\Tela de Cadastro\obj\Debug\Tela de Cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\20231stads005\source\repos\Tela de Cadastro\Tela de Cadastro\obj\Debug\Tela_de_Cadastro.Form1.resources
+C:\Users\20231stads005\source\repos\Tela de Cadastro\Tela de Cadastro\obj\Debug\Tela_de_Cadastro.Properties.Resources.resources
+C:\Users\20231stads005\source\repos\Tela de Cadastro\Tela de Cadastro\obj\Debug\Tela de Cadastro.csproj.GenerateResource.cache
+C:\Users\20231stads005\source\repos\Tela de Cadastro\Tela de Cadastro\obj\Debug\Tela de Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\20231stads005\source\repos\Tela de Cadastro\Tela de Cadastro\obj\Debug\Tela de Cadastro.exe
+C:\Users\20231stads005\source\repos\Tela de Cadastro\Tela de Cadastro\obj\Debug\Tela de Cadastro.pdb
